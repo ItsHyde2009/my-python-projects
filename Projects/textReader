@@ -1,0 +1,19 @@
+print("Welcome to the Python Text Reader")
+start = input("Do you want to start reading files?[Y/N] ")
+if start == "Y" or "y" or "Yes" or "yes" or "YES":
+    print("Loading...")
+    handle = input("Please insert the location and name of the file you want to read: ")
+    try:
+        handleRead = open(handle, "r")
+        print(handleRead)
+        lcount = 0
+        for lines in handle:
+            count = count + 1
+            print("This file has: ", lcount, "lines.")
+        wcount = 0    
+        for words in lines:
+            wcount = wcount + 1
+            print("And ", wcount, "words.")
+    except:
+        print("Oops, looks like something went wrong. Please try again.")
+        
