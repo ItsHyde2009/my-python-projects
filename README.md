@@ -1,7 +1,6 @@
-# myPyProjects
-In this repository I'll be uploading any Python projects I make (can be big or small projects). Bear in mind that I'm still learning this language.
+# my-python-projects
+In this repository, I will be uploading any Python learning projects I make (either big or small).
 -AUTHOR NOTES-
-·Any help about the projects posted here (tips and things of that kind) is welcome and really appreciated.
-·The projects here will be completely made by myself, so this is not a cooperative repository where you can post projects of your own.
-·You CAN use the code posted here.
-·This repository may be active and innactive depending if I feel working on it or not. (I'm busy with daily things so, I might not always have free time for this repository).
+·Any recommendations about the projects here (tips and such) are welcomed and appreciated.
+·You CAN make use of the code uploaded here.
+·I am still a middle school student so I may not always be actively working in the repository, due to my studies.
